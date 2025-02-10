@@ -8,6 +8,8 @@
 ## Overview
 This script processes sales data from Teachers Pay Teachers (TPT) and generates charts to visualize sales on a map. 
 
+![alt text](sales-map-tpt-demo.jpg)
+
 Start by first downloading your teachers pay teachers product sales report at the following destination: https://www.teacherspayteachers.com/My-Sales
 
 ![alt text](download-tpt-sales-report-how-to.jpg)
@@ -16,8 +18,8 @@ Start by first downloading your teachers pay teachers product sales report at th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Sales-Visualizer.git
-   cd Sales-Visualizer
+   git clone https://github.com/Receptor-01/TPT-Sales-Map.git
+   cd TPT-Sales-Map
 
 
 ## Setup with Virtual Environment
