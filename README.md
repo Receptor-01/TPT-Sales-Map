@@ -12,6 +12,8 @@ This script processes sales data from Teachers Pay Teachers (TPT) and generates 
 
 Start by first downloading your teachers pay teachers product sales report at the following destination: https://www.teacherspayteachers.com/My-Sales
 
+Apply the date range you want to map out. I think it's capped at 1 year maximum. 
+
 ![alt text](select-date-range.png)
 
 Then download the full report: 
