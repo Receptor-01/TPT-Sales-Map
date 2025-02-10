@@ -3,7 +3,9 @@
 
 # TPT Sales Map for Teachers Pay Teachers Sellers
 
-- Created By Receptor-01
+Creators:
+- AlgoThink: https://www.teacherspayteachers.com/store/algothink
+- Receptor-01: https://github.com/Receptor-01
 
 ## Overview
 This script processes sales data from Teachers Pay Teachers (TPT) and generates charts to visualize sales on a map. 
