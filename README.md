@@ -8,11 +8,19 @@
 ## Overview
 This script processes sales data from Teachers Pay Teachers (TPT) and generates charts to visualize sales on a map. 
 
-![alt text](sales-map-tpt-demo.jpg)
+![alt text](tpt-report-demo-1.jpg)
 
 Start by first downloading your teachers pay teachers product sales report at the following destination: https://www.teacherspayteachers.com/My-Sales
 
-![alt text](download-tpt-sales-report-how-to.jpg)
+![alt text](select-date-range.png)
+
+Then download the full report: 
+
+![alt text](download-full-report.png)
+
+After downloading, manually rename your TPT sales report CSV to 'sales-report.csv' to ensure naming consistency. 
+
+![alt text](naming-convention.png)
 
 ## Installation
 
