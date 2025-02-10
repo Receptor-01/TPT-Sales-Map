@@ -1,8 +1,9 @@
 
+![alt text](tpt-report-1.png)
+
 # TPT Sales Map for Teachers Pay Teachers Sellers
 
-- Created By Receptor-01 & AlgoThink
-
+- Created By Receptor-01
 
 ## Overview
 This script processes sales data from Teachers Pay Teachers (TPT) and generates charts to visualize sales on a map. 
@@ -32,5 +33,4 @@ Start by first downloading your teachers pay teachers product sales report at th
 
 3. Install dependencies
     - pip install -r requirements.txt
-
 
